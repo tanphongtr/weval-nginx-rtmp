@@ -1,3 +1,5 @@
+READ: https://medium.com/@noahschumacher/enabling-high-fidelity-low-latency-live-streaming-with-nginx-a6a4eb22ec6
+
 # weval-nginx-rtmp Dockerized and Optimized Streaming Server
 This repo is a small collection of files used to build and run a dockerized NGINX-RTMP streaming server. The `Dockerfile` contains all specifics for building the image and the `docker-compose.yml` is used to quickly build and or startup a running container of the image. The specifics of the nginx server are located in `nginx.conf`.
 
